@@ -8,3 +8,5 @@
 
 - *Testes de aplicações de versionamento de codigo🤔*
 
+- *Tá ainda um pouco complicado, mas acho que estamos começando a entender🥵😂*
+
