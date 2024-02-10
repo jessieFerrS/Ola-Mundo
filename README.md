@@ -13,5 +13,6 @@
 - *Acho que entendemos, pois foi adicionado:*
     - HTLM
     - CSS
-    - Falta agora o JavaScript!😨
+    - JavaScript 
+    😎😎
 
