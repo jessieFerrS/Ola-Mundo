@@ -1,0 +1,1 @@
+window.prompt("Ocorre tudo bem? Foi um sufoco não?");
