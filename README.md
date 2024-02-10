@@ -10,3 +10,8 @@
 
 - *Tá ainda um pouco complicado, mas acho que estamos começando a entender🥵😂*
 
+- *Acho que entendemos, pois foi adicionado:*
+    - HTLM
+    - CSS
+    - Falta agora o JavaScript!😨
+
