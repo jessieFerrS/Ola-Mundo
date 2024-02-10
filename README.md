@@ -4,3 +4,5 @@
 
 - *Aprendendo como funciona o versionamento de código com Git e GitHub*
 
+- *Fiz uma alteração no site de exemplo*
+
